@@ -5,6 +5,6 @@ def get_max (a,b):
          return a
      else :
          return b
-z=get_max(a,b)
+z=get_max(a,b) #ok
 print(z)
 
